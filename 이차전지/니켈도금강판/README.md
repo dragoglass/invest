@@ -2,37 +2,38 @@
 > 니켈도금강판은 BP(Black Plate, 석도원판)라는 소재를 니켈 도금한 후, 열처리 및 적당한 온도로 가열한 후 천천히 냉각하여 니켈과 철의 합금층이 생긴 강판을 말함
 > 
 > 여기서 열처리는 하는 이유는 보통 1차전지의 경우에는 열처리를 하지 않지만, 2차전지의 경우 충전/방전을 반복하면서 오랜 기간을 사용하기 때문에 **<span style="color:red; background-color:#fff5b1">열처리를 통해 녹 발생을 막고, 모양을 쉽게 바꿀 수 있게 성형성을 좋게 함</span>**
-![열처리VS비열처리 니켈도금강판 성형 후 내식성 비교](https://github.com/dragoglass/invest/blob/stock/%EC%9D%B4%EC%B0%A8%EC%A0%84%EC%A7%80/%EB%8B%88%EC%BC%88%EB%8F%84%EA%B8%88%EA%B0%95%ED%8C%90/%EB%82%B4%EC%8B%9D%EC%84%B1%EB%B9%84%EA%B5%90.gif?raw=1)
+![열처리VS비열처리 니켈도금강판 성형 후 내식성 비교](https://github.com/dragoglass/invest/blob/stock/%EC%9D%B4%EC%B0%A8%EC%A0%84%EC%A7%80/%EB%8B%88%EC%BC%88%EB%8F%84%EA%B8%88%EA%B0%95%ED%8C%90/%EA%B7%B8%EB%A6%BC/%EB%82%B4%EC%8B%9D%EC%84%B1%EB%B9%84%EA%B5%90.gif?raw=1)
 
-## 베터리의 형태
-- 베터리는 기본적으로 ①원통형베터리, ②각형베터리, ③파우치형베터리 를 주로 사용
+## 배터리의 형태
+- 배터리는 기본적으로 ①원통형배터리, ②각형배터리, ③파우치형배터리 를 주로 사용
 
-![전기차 베터리 형태 및 장단점](https://github.com/dragoglass/invest/blob/stock/%EC%9D%B4%EC%B0%A8%EC%A0%84%EC%A7%80/%EB%8B%88%EC%BC%88%EB%8F%84%EA%B8%88%EA%B0%95%ED%8C%90/%EB%B2%A0%ED%84%B0%EB%A6%AC%ED%98%95%ED%83%9C.gif?raw=1)
+![전기차 배터리 형태 및 장단점](https://github.com/dragoglass/invest/blob/stock/%EC%9D%B4%EC%B0%A8%EC%A0%84%EC%A7%80/%EB%8B%88%EC%BC%88%EB%8F%84%EA%B8%88%EA%B0%95%ED%8C%90/%EA%B7%B8%EB%A6%BC/%EB%B2%A0%ED%84%B0%EB%A6%AC%ED%98%95%ED%83%9C.gif?raw=1)
 
-- 원통형 베터리는 각형, 파우치형 대비 오랫동안 사용되면서 기술력, 안전성 및 생산효율이 높아 테슬라를 비롯해 GM, 폭스바겐 등 대표적인 완성차 기업들이 채택을 많이 하는 중
-- 원통형베터리를 만들 때 쓰는 금속 캔 소재가 바로 **<span style="color:red; background-color:#fff5b1">'니켈도금강판'</span>
+- 원통형 배터리는 각형, 파우치형 대비 오랫동안 사용되면서 기술력, 안전성 및 생산효율이 높아 테슬라를 비롯해 GM, 폭스바겐 등 대표적인 완성차 기업들이 채택을 많이 하는 중
+- 원통형배터리를 만들 때 쓰는 금속 캔 소재가 바로 **<span style="color:red; background-color:#fff5b1">'니켈도금강판'</span>
 <p align="center">
-    <img src=https://github.com/dragoglass/invest/blob/stock/%EC%9D%B4%EC%B0%A8%EC%A0%84%EC%A7%80/%EB%8B%88%EC%BC%88%EB%8F%84%EA%B8%88%EA%B0%95%ED%8C%90/%EC%9B%90%ED%86%B5%ED%98%95%EB%B2%A0%ED%84%B0%EB%A6%AC.gif?raw=1 alt="니켈도금강판을 적용한 원통형베터리" />
+    <img src=https://github.com/dragoglass/invest/blob/stock/%EC%9D%B4%EC%B0%A8%EC%A0%84%EC%A7%80/%EB%8B%88%EC%BC%88%EB%8F%84%EA%B8%88%EA%B0%95%ED%8C%90/%EA%B7%B8%EB%A6%BC/%EC%9B%90%ED%86%B5%ED%98%95%EB%B2%A0%ED%84%B0%EB%A6%AC.gif?raw=1
+    alt="니켈도금강판을 적용한 원통형배터리" />
     <br>
-   니켈도금강판을 적용한 원통형 베터리
+   니켈도금강판을 적용한 원통형 배터리
 </p>
 
 ## 니켈도금강판소재, BP(Black Plate, 석도원판)
 - BP란 주로 주석도금강판 제조에 적합하게 만들어진 탄소 함유량이 낮은 강판으로, 최고급 냉연 강판에 속함
 - BP는 **<span style="color:red">니켈도금강판 원가의 약 6~70%를 차지**하는데 최근 금속 캔 수요 감소로 BP 생산 기업들의 수익성이 악화되면서 수급이 어려운 소재
 - <span style="background-color:#fff5b1">국내에서는 BP를 포스코와 KG스틸만 생산 중인데, 포스코는 현재 약 7만톤의 BP 생산능력을 보유하고 있으며, KG스틸은 약 2만톤 정도의 BP 생산 능력을 확보
-- 현재 **<span style="color:red">포스코는 국내 기업인 TCC스틸, 동국산업향으로 판매중**이며 25년까지 총 10만톤으로 증설을 통해 원통형 베터리향 수요 증가에 대비 예정
+- 현재 **<span style="color:red">포스코는 국내 기업인 TCC스틸, 동국산업향으로 판매중**이며 25년까지 총 10만톤으로 증설을 통해 원통형 배터리향 수요 증가에 대비 예정
 - 글로벌로는 Nippon Steel, JFE Steel, Tata Steel, Thyssenkrupp, Cleveland Cliffs, Ezi Metal, Optimum Steels 등이 BP를 생산하고 있음
 
-![포스코 석도금용 강 제품 설명 (BP, Black Plate, 석도원판)](https://github.com/dragoglass/invest/blob/stock/%EC%9D%B4%EC%B0%A8%EC%A0%84%EC%A7%80/%EB%8B%88%EC%BC%88%EB%8F%84%EA%B8%88%EA%B0%95%ED%8C%90/%EC%84%9D%EB%8F%84%EC%9B%90%ED%8C%90.gif?raw=1)
+![포스코 석도금용 강 제품 설명 (BP, Black Plate, 석도원판)](https://github.com/dragoglass/invest/blob/stock/%EC%9D%B4%EC%B0%A8%EC%A0%84%EC%A7%80/%EB%8B%88%EC%BC%88%EB%8F%84%EA%B8%88%EA%B0%95%ED%8C%90/%EA%B7%B8%EB%A6%BC/%EC%84%9D%EB%8F%84%EC%9B%90%ED%8C%90.gif?raw=1)
 
 ## 니켈도금강판 공정
 - 우선 니켈도금강판은 단어서 확인할 수 있듯이 '도금' 기술이 매우 중요.
 - 도금이란? 철, 스테인리스, 알루미늄 등의 금속 표면에 다른 금속의 피막을 형성시키는 것으로 **<span style="color:red">금속의 내식성(녹이 안생기는 성질)을 향상** 시켜줌
-- 열처리 소둔 공정은 앞서 설명한 것처럼 원통형 베터리를 만들 때 적당한 온도로 가열한 후 천천히 냉각시켜주는 공정으로, 철강의 연화, 가공성 개선, 내부 응력 제거를 위해 행해지는 공정
+- 열처리 소둔 공정은 앞서 설명한 것처럼 원통형 배터리를 만들 때 적당한 온도로 가열한 후 천천히 냉각시켜주는 공정으로, 철강의 연화, 가공성 개선, 내부 응력 제거를 위해 행해지는 공정
 - 도금, 열처리 소둔은 기업마다 방법, 장비 등이 전부 달라서 개별 기업별로 노하우가 필요한 영억
 - 
-![니켈도금강판 생산 공정, 생산 설비 모식도](https://github.com/dragoglass/invest/blob/stock/%EC%9D%B4%EC%B0%A8%EC%A0%84%EC%A7%80/%EB%8B%88%EC%BC%88%EB%8F%84%EA%B8%88%EA%B0%95%ED%8C%90/%EA%B0%95%ED%8C%90%EC%83%9D%EC%82%B0%EA%B3%B5%EC%A0%95.gif?raw=1)
+![니켈도금강판 생산 공정, 생산 설비 모식도](https://github.com/dragoglass/invest/blob/stock/%EC%9D%B4%EC%B0%A8%EC%A0%84%EC%A7%80/%EB%8B%88%EC%BC%88%EB%8F%84%EA%B8%88%EA%B0%95%ED%8C%90/%EA%B7%B8%EB%A6%BC/%EA%B0%95%ED%8C%90%EC%83%9D%EC%82%B0%EA%B3%B5%EC%A0%95.gif?raw=1)
 
 ### 소둔 공정이란
 - 소둔 공정의 단계
@@ -53,3 +54,30 @@
   - 항공 산업 : 항공기 부품의 내부 응력을 줄이고 기계적 성질을 향상시킴
   - 건설 산업 : 건축 자재의 내구성과 가공성을 증가시킴
   - 전자 산업 : 전자 부품의 정밀도를 높이고 내부 응력을 제거함
+
+## 니켈도금강판 벨류체인
+- 니켈도금강판은 원소재인 BP를 가져와 니켈전기도금, 소둔 열처리를 거쳐 생산되는데, 생산된 니켈도금강판을 성형하여 원통형 배터리에 쓰이는 케이스 캔이 만들어짐
+- 니켈도금강판은 BP와 마찬가지로 원재료 수급 능력 및 도금/소둔 열처리 기술을 갖춘 철강 가공처리 기업들이 **<span style="color:red">과점** 하고 있는 상황
+- 글로벌로는 Nippon Steel, Toyo Kohan, Tata Steel 등이 있으며 **한국에는 <span style="color:red">TCC스틸** **과 <span style="color:red">동국산업** **이 니켈도금강판을 생산**하고 있음
+
+![니켈도금강판 벨류체인](https://github.com/dragoglass/invest/blob/stock/%EC%9D%B4%EC%B0%A8%EC%A0%84%EC%A7%80/%EB%8B%88%EC%BC%88%EB%8F%84%EA%B8%88%EA%B0%95%ED%8C%90/%EA%B7%B8%EB%A6%BC/%EB%B2%A8%EB%A5%98%EC%B2%B4%EC%9D%B8.gif?raw=1)
+
+## 니켈도금강판 관련주
+### TCC스틸
+- TCC스틸은 현재 니켈도금강판 20만톤 생산능력을 갖추고 있음
+- 고객사로는 삼성SDI 및 LG에너지솔루션에 납품 중으로 23년 8월 **<span style="color:red">8만톤에서 20만톤으로 증설을 완료**하여 **<span style="color:red">글로벌 1위 생산능력 확보**
+- 1만톤당 매출 250억원 정도 예상되며, TCC스틸의 매출액은 5,000억원, 영업이익 500~600억원 수준 기대(이익률 10~15% 예상)
+
+### 동국산업
+- 동국산업은 24년 9월부터 8만톤 설비 가동을 시작으로 추후 약 13만톤까지 증설을 진행할 예정
+- LG에너지솔루션 향으로 4680배터리 대응 예정이며, 현재 삼성SDI 향으로도 퀄테스트 진행 중으로 조만간 가시화될 것으로 예상
+- 1만톤당 매출 250억원 정도 예상되며, 동국산업 매출액은 3,250억원, 영업이익 325~490억 수준 기대(이익률 10~15% 예상)
+
+## 원통형 배터리 캔 관련주
+### 상신이디피
+- 상신이디피는 니켈도금강판을 활용하여 원통형배터리 케이스를 제작하는 기업
+- 삼성SDI 향으로 배터리 케이스를 납품하고 있으며, 삼성SDI는 4680뿐만 아니라, 4695, 46100, 46120배터리 등 다양한 폼팩터를 생산할 예정
+
+### 동원시스템즈
+- 동원시스템즈는 니켈도금강판을 활용하여 참치캔 제작을 진행했으며, 올해 8월부터 LG에너지솔루션 향으로 4680 원통형 배터리용 케이스를 제작 예정
+- 삼성SDI 쪽으로 샘플 납품을 진행하여 가시화된다면 본격적으로 배터리 케이스 관련주로 부각될 것
