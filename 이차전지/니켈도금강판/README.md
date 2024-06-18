@@ -1,5 +1,6 @@
 # 니켈도금강판
 > 니켈도금강판은 BP(Black Plate, 석도원판)라는 소재를 니켈 도금한 후, 열처리 및 적당한 온도로 가열한 후 천천히 냉각하여 니켈과 철의 합금층이 생긴 강판을 말함
+> 
 > 여기서 열처리는 하는 이유는 보통 1차전지의 경우에는 열처리를 하지 않지만, 2차전지의 경우 충전/방전을 반복하면서 오랜 기간을 사용하기 때문에 **<span style="color:red; background-color:#fff5b1">열처리를 통해 녹 발생을 막고, 모양을 쉽게 바꿀 수 있게 성형성을 좋게 함</span>**
 ![열처리VS비열처리 니켈도금강판 성형 후 내식성 비교](https://github.com/dragoglass/invest/blob/stock/%EC%9D%B4%EC%B0%A8%EC%A0%84%EC%A7%80/%EB%8B%88%EC%BC%88%EB%8F%84%EA%B8%88%EA%B0%95%ED%8C%90/%EB%82%B4%EC%8B%9D%EC%84%B1%EB%B9%84%EA%B5%90.gif?raw=1)
 
