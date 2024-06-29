@@ -17,7 +17,7 @@
 - 소형위성 : **<span style="color:red">쎄트렉아이**, 카이스트 인공위성센터
 - 쎄트렉아이는 1999년 우리나라 최초 위성인 우리별 1호의 개발자 중심으로 설립
 
-![위성산업분류](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%EC%82%B0%EC%97%85%EB%B6%84%EB%A5%98.PNG?raw=1)
+![위성산업분류](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%EC%82%B0%EC%97%85%EB%B6%84%EB%A5%98.PNG?raw=true)
 ## 위성산업의 분류
 - 위성시장 규모 380조원(2022년)
 - 위성서비스 40%
@@ -33,11 +33,11 @@
 ## 국내 위성산업 규모(2022년) 3조 7236억원
 - 위성제작 시장 6851억원 (2018년 이후 **<span style="color:red">연평균 +14.3%** 성장)
 
-![지구관측 위성이 수집한 데이터 활용 사례](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%ED%99%9C%EC%9A%A9%EC%82%AC%EB%A1%80.PNG?raw=1) ![대한민국 지구관측 위성](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9C%84%EC%84%B1.PNG?raw=1)
-![지구관측 위성 증가 추이](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%A6%9D%EA%B0%80%EC%B6%94%EC%9D%B4.PNG?raw=1) ![관측위성 활용 범위](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EA%B5%AD%EB%B0%A9%EC%97%90%EC%A7%91%EC%A4%91.PNG?raw=1)
+![지구관측 위성이 수집한 데이터 활용 사례](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%ED%99%9C%EC%9A%A9%EC%82%AC%EB%A1%80.PNG?raw=true) ![대한민국 지구관측 위성](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%9C%84%EC%84%B1.PNG?raw=true)
+![지구관측 위성 증가 추이](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%A6%9D%EA%B0%80%EC%B6%94%EC%9D%B4.PNG?raw=true) ![관측위성 활용 범위](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EA%B5%AD%EB%B0%A9%EC%97%90%EC%A7%91%EC%A4%91.PNG?raw=true)
 
 
-![지구관측 위성의 분류](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%A7%80%EA%B5%AC%EA%B4%80%EC%B8%A1%EC%9C%84%EC%84%B1.PNG?raw=1)  ![위성의구조](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%EC%9D%98%EA%B5%AC%EC%A1%B0.PNG?raw=1)
+![지구관측 위성의 분류](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%A7%80%EA%B5%AC%EA%B4%80%EC%B8%A1%EC%9C%84%EC%84%B1.PNG?raw=true)  ![위성의구조](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%EC%9D%98%EA%B5%AC%EC%A1%B0.PNG?raw=true)
 ## 지구관측 위성
 - 국가 안보, 기후 관측 등 중요한 역할을 하고 있어 정부투자가 지속된 우주분야 핵심 기술
 - 안보 분야 외에도 국토 관리, 농작물 관리, 기상 관측 등에 다양하게 활용 가능
@@ -50,7 +50,7 @@
 - 대한민국은 1992년 발사한 우리별 1호 시작으로 현재까지 3조원 이상 투자
 - 2023년 5월 누리호 3차발사한 민간기업의 '큐브위성' 3기 중 2기가 지구관측 위성
 
-![국군 정찰위성 EO, IR 위성 - SAR 위성 비교](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EA%B5%AD%EA%B5%B0%EC%A0%95%EC%B0%B0%EC%9C%84%EC%84%B1.PNG?raw=1)
+![국군 정찰위성 EO, IR 위성 - SAR 위성 비교](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EA%B5%AD%EA%B5%B0%EC%A0%95%EC%B0%B0%EC%9C%84%EC%84%B1.PNG?raw=true)
 ## 수동센서 VS 능동센서
 ### 수동센서(EO-광학, IR, UV)
 - 지구가 **<span style="color:red">자연적으로 방출**하거나 태양이 방출하고 지구가 반사한 전자기파를 취득
@@ -61,23 +61,23 @@
 - **<span style="color:red">SAR 센서**(Synthetic Aperture Radar, 합성 개구 레이더): 위성/항공기 등의 이동체에 탑재하여 연속적으로 전자기파를 송/수신하면서 얻은 데이터를 합성하여 큰 안테나(Synthetic Aperture)로 촬영한 것과 같은 영상을 얻는 센서(영상 레이더)
 - 비/구름을 관통할 수 있는 X,C,L 밴드 등 사용, 기상상황 관계없이 전천후 지구 관측이 가능
 
-![SAR위성](https://github.com/dragoglass/invest/blob/8e8c7762359afcde667eedcde0993e6126b19e03/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/SAR%EC%9C%84%EC%84%B1.PNG?raw=1)
+![SAR위성](https://github.com/dragoglass/invest/blob/8e8c7762359afcde667eedcde0993e6126b19e03/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/SAR%EC%9C%84%EC%84%B1.PNG?raw=true)
 ## SAR
 - Synthetic Aperture Radar, 합성 개구 레이다
 - 공중에서 지상 및 해양을 관찰하는 레이다
 - 위성에서 레이다를 순차적으로 쏜 후 굴곡면에 반사되어 돌아오는 미세한 시간차를 처리
 - 소형 SAR 위성은 본체와 탑재체를 일체형으로 설계하여 본체와 탑재체가 구분되어 있는 기존 중/대형 위성 대비 크기와 부피를 대폭 축고
 
-![촬영영상](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%B4%AC%EC%98%81%EC%98%81%EC%83%81.PNG?raw=1)
+![촬영영상](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%B4%AC%EC%98%81%EC%98%81%EC%83%81.PNG?raw=true)
 ## SAR 위성 특징
 - 지상 지형도를 만들거나 지표를 관측
 - 레이다를 사용하기 때문에 주간 및 야간,그리고 **<span style="color:red">악천후에도 사용 가능**
 - 구름 등 기상 영향없이 24시간 영상 획득 가능(해상도 1m)
 
 ## 응답속도
-![응답속도](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9D%91%EB%8B%B5%EC%86%8D%EB%8F%84.PNG?raw=1)
+![응답속도](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9D%91%EB%8B%B5%EC%86%8D%EB%8F%84.PNG?raw=true)
 
-![소유한 인공위성 수](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/Satellites.PNG?raw=1)    ![궤도당 위성 수](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EA%B0%81%EA%B6%A4%EB%8F%84%EC%88%98.PNG?raw=1)
+![소유한 인공위성 수](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/Satellites.PNG?raw=true)    ![궤도당 위성 수](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EA%B0%81%EA%B6%A4%EB%8F%84%EC%88%98.PNG?raw=true)
 
 ## 소형 위성의 시대
 - 소형 위성(<1,200kg>)은 1분기에 발사된 우주선의 **<span style="color:red">96%**, 전체 질량의 **<span style="color:red">76%**를 차지
@@ -88,12 +88,12 @@
 - 저궤도 군집위성 : 짧은 관측 주기, 전 지구 커버, 낮은 통신 지연율 등 서비스 부가가치 증가
 - 소형 군집위성 수요 증가로 대형 발사체 시장도 동반 성장(스페이스X의 판콘9 등)
 
-![소형위성](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%86%8C%ED%98%95%EC%9C%84%EC%84%B1.PNG?raw=1)
-![소형위성발사체](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%86%8C%ED%98%95%EC%9C%84%EC%84%B1%EB%B0%9C%EC%82%AC%EC%B2%B4.PNG?raw=1)
+![소형위성](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%86%8C%ED%98%95%EC%9C%84%EC%84%B1.PNG?raw=true)
+![소형위성발사체](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%86%8C%ED%98%95%EC%9C%84%EC%84%B1%EB%B0%9C%EC%82%AC%EC%B2%B4.PNG?raw=true)
 
 - 우리나라에선 **<span style="color:red">이노스페이스** 가 소형발사체 만드는 회사
 
-![초소형SAR위성체계](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%B4%88%EC%86%8C%ED%98%95SAR%EC%9C%84%EC%84%B1%EC%B2%B4%EA%B3%84.PNG?raw=1)
+![초소형SAR위성체계](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%B4%88%EC%86%8C%ED%98%95SAR%EC%9C%84%EC%84%B1%EC%B2%B4%EA%B3%84.PNG?raw=true)
 ### 초소형 SAR 위성 체계 개발 중
 - 소형 SAR 위성을 군집으로 운용하면 재방문 주기를 30분 이하로 단축 가능
 -> 관측 정보를 빠르게 획득 가능
@@ -112,8 +112,8 @@
 - 소형위성, 중형위성 비해 해상도 떨어지나 자주 관찰 가능
 
 ## 스페이스X발사체 -> 민간 인공위성 시대 개막
-![발사체재사용](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EB%B0%9C%EC%82%AC%EC%B2%B4%EC%9E%AC%EC%82%AC%EC%9A%A9.PNG?raw=1)
-![인공위성 제조단가](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1%EC%9E%AC%EC%A1%B0%EB%8B%A8%EA%B0%80.PNG?raw=1)
+![발사체재사용](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EB%B0%9C%EC%82%AC%EC%B2%B4%EC%9E%AC%EC%82%AC%EC%9A%A9.PNG?raw=true)
+![인공위성 제조단가](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1%EC%9E%AC%EC%A1%B0%EB%8B%A8%EA%B0%80.PNG?raw=true)
 
 ### 우주선 재사용 발사체에 대한 관심 증가(문화일보)
 - 과거 우주선의 경우 일회성, 혹은 부분 재사용만 가능해 막대한 비용을 날린다는 지적
@@ -124,21 +124,21 @@
 - 우주로 약 1KG 의 화물을 운송할 때 비용 -> 평균 2,000만원
 - 챌린저호 등 우주왕복선은 kg당 9,000만원 비용 필요, 팰컨 9은 약 400만원
 
-![발사비용](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EB%B0%9C%EC%82%AC%EB%B9%84%EC%9A%A9.PNG?raw=1)
+![발사비용](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EB%B0%9C%EC%82%AC%EB%B9%84%EC%9A%A9.PNG?raw=true)
 
 ## 위성 정책
-![위성정책](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%EC%A0%95%EC%B1%85.PNG?raw=1)
-![위성발사계획](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%EB%B0%9C%EC%82%AC%EA%B3%84%ED%9A%8D.PNG?raw=1)
+![위성정책](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%EC%A0%95%EC%B1%85.PNG?raw=true)
+![위성발사계획](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%EB%B0%9C%EC%82%AC%EA%B3%84%ED%9A%8D.PNG?raw=true)
 
 ## 고성장 담보된 국내 위성 시장
-![위성발사 수요(안)](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%EB%B0%9C%EC%82%AC%EC%95%88.PNG?raw=1)
+![위성발사 수요(안)](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%EB%B0%9C%EC%82%AC%EC%95%88.PNG?raw=true)
 ### 2024년 정부예산 본격 집행
 - 차세대 발사체 개발사업 1,101억원(총 2조 규모), 한국형 위성 항법시스템 개발사업 2,179억원(총 3.7조 규모) 등 총 8,362억원(23년 7,508억원) 우주분야 R&D 예산 배정
 - 민간기업 강화 위해 연간 우주개발 투자규모 23년 7,508억원 -> 30년대 2.1조원 확대
 - **<span style="color:red">2030년까지 정부 발주 발사 예정 위성수 80기 이상**
 - 군, 2025년까지 SAR 위성 4기, EO/IR 장비 탑재 위성 1기 등 고해상도 정찰 위성 확보
 
-![2023년 글로벌 위성산업 매출](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%EC%82%B0%EC%97%85%EB%A7%A4%EC%B6%9C%EC%95%A1.PNG?raw=1)
+![2023년 글로벌 위성산업 매출](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%EC%82%B0%EC%97%85%EB%A7%A4%EC%B6%9C%EC%95%A1.PNG?raw=true)
 
 ## 위성제작 산업의 구조적 성장
 > 위성 제작
@@ -149,4 +149,4 @@
 >   > 저궤도 위성
 
 ## 우주항공 밸류체인
-![우주항공 밸류체인](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5%20%EB%B0%B8%EB%A5%98%EC%B2%B4%EC%9D%B8.PNG?raw=1)
+![우주항공 밸류체인](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5%20%EB%B0%B8%EB%A5%98%EC%B2%B4%EC%9D%B8.PNG?raw=true)
