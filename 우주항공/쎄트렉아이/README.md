@@ -1,5 +1,5 @@
 # 쎄트렉아이
-![쎄트렉아이]()
+![쎄트렉아이](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4.PNG?raw=true)
 ## 기업개요
 > - 지구관측 위성시스템 개발 및 생산
 > - <span style="font-weight: bold; color: red;">중소형 위성, </span>위성 탑재체와 부분품 개발 및 제조, 위성 관제소프트웨어, 위성 영상 S/W 개발
@@ -21,11 +21,11 @@
 ```
 <span style="font-size: 200%; font-weight: bold; color: red;">쎄트렉아이는 현재 0.3m 까지 만든걸로 알고 있음</span>
 
-![쎄트렉아이 연혁]()
+![쎄트렉아이 연혁](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4%20%EC%97%B0%ED%98%81.PNG?raw=true)
 
 ---
 ### 위성 개발
-![SpaceEye-R,M]()   ![SpaceEye-T]()
+![SpaceEye-R,M](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/SpaceEye-R%2CM.PNG?raw=true)   ![SpaceEye-T](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/SpaceEye-T.PNG?raw=true)
 > 2009년, 2.5m급 위성 RazakSAT(말레이시아), DubaiSat-1(UAE) 개발 및 공급
 > 2013년, UAE와 유럽 Deimos로부터 수주한 해상도 1m급 소형위성(DubaiSat-2, Deimos-2)
 > 다수의 우주용 초고해상도 카메라와 위성 본체를 해외 정부고객에게 공급
@@ -39,20 +39,20 @@
 > 태양전지판과 배터리 등 제외하고 위성 카메라, 별 센서, GPS 수신기, 자세제어 소프트웨어 포함 위성부품 대부분을 <span style="font-weight: bold; color: red;">자체 설계 및 생산 중
 > 기술적, 가격적인 면에서 우이성의 최적 설계 용이
 
-![3대 핵심기술]()   ![자체개발]()
+![3대 핵심기술](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/3%EB%8C%80%20%ED%95%B5%EC%8B%AC%EA%B8%B0%EC%88%A0.PNG?raw=true)   ![자체개발](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/%EC%9E%90%EC%B2%B4%EA%B0%9C%EB%B0%9C.PNG?raw=true)
 
 ---
 ### 인공위성
-![인공위성]()
+![인공위성](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1.PNG?raw=true)
 ```
 전자광학(EO) : 기상이 안좋으면(눈비가 오면) 안보일 수 있음 - 쎄트렉아이
 SAR : 선명도는 떨어져도 눈비가 올때도 잘 보임 - 한화시스템
 ```
-![쎄트렉아이 인공위성]()    ![위성 영상 해상도 비교]()
+![쎄트렉아이 인공위성](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4%20%EC%9D%B8%EA%B3%B5%EC%9C%84%EC%84%B1.PNG?raw=true)    ![위성 영상 해상도 비교](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%20%EC%98%81%EC%83%81%20%ED%95%B4%EC%83%81%EB%8F%84%20%EB%B9%84%EA%B5%90.PNG?raw=true)
 
 ---
 ### 한화시스템 향 대규모 공급 계약 체결
-![계약 내용]()  ![세계 지구관측 위성시장 전망]()
+![계약 내용](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/%EA%B3%84%EC%95%BD%EB%82%B4%EC%9A%A9.PNG?raw=true)  ![세계 지구관측 위성시장 전망](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/%EC%84%B8%EA%B3%84%EC%9D%98%20%EC%A7%80%EA%B5%AC%EA%B4%80%EC%B8%A1%20%EC%9C%84%EC%84%B1%EC%8B%9C%EC%9E%A5%20%EC%A0%84%EB%A7%9D.PNG?raw=true)
 > 한화시스템 향 군집위성 공급계약(추정)
 > 창사이래 최대 규모 수주
 > 수주금액 23년 매출액대비 81% 수준
@@ -64,15 +64,15 @@ SAR : 선명도는 떨어져도 눈비가 올때도 잘 보임 - 한화시스템
 ---
 ## 자회사
 ### SIIS
-![SIIS]()
+![SIIS](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/SIIS.PNG?raw=true)
 > 영상을 판매 함
 
 ### SIA
-![SIA]()
+![SIA](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/SIA.PNG?raw=true)
 > 영상을 분석해 줌
 
 ## 주요 지표
-![부문별 수주잔고]()    ![고객사]()
+![부문별 수주잔고](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/%EB%B6%80%EB%AC%B8%EB%B3%84%20%EC%88%98%EC%A3%BC%20%EC%9E%94%EA%B3%A0.PNG?raw=true)    ![고객사](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/%EA%B3%A0%EA%B0%9D%EC%82%AC.PNG?raw=true)
 
 ```
 * 정부 프로젝트 위성 공급
