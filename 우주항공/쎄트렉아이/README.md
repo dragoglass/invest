@@ -1,4 +1,5 @@
 # 쎄트렉아이
+> 출처 (염블리)
 ![쎄트렉아이](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4.PNG?raw=true)
 ## 기업개요
 > - 지구관측 위성시스템 개발 및 생산
