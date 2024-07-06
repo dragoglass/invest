@@ -20,6 +20,16 @@
 - 자발적 이직률 2.2%로 전원과 같음
 - 채용공고 최고치는 <span style="font-size: 200%; font-weight: bold; color: red;">22년 3월 1200만건</span>으로 기조적으로 채용공고는 둔화되고 있음, 코로나 전 수준으로 거의 돌아가고 있음
 
+# 7월 4일
+- 10년물 금리 <span style="font-size: 200%; font-weight: bold; color: red;">4.35%(-0.073%)
+- 미국은 금리가 하락하면서 시장분위기는 긍정적으로 흘러가고 있음
+- 이유는 지표 부진. 먼저 신규 실업급여 청구건수는 23만 8,000건으로 전보다 4000건 증가, 연속 신청건수도 전주보다 26,000건 증가한 185만 8,000건으로 집계
+- 이는 21년 11월 27일 이후 약 <span style="font-size: 200%; font-weight: bold; color: red;">2년 7개월 만에 가장 높은 수준
+- ISM 서비스업 PMI는 <span style="font-size: 200%; font-weight: bold; color: red;">5월 53.8에서 6월 48.8로 급락</span>. 예상치인 52.6도 크게 하회한 수비
+- 서비스업 PMI 는 15개월 연속 확장 이후 지난 3개월 중 2개월 동안 위축(4월, 6월)
+- ING는 "오늘 데이터는 경제가 냉각되고 일자리 시장이 약화하고 있다는 증거를 더 많이 제공했다. ISM 서비스업 PMI 는 팬데믹 한복판에 있을 때와 비슷한 PMI 가 나왔다. 제조업, 서비스업 많은 분야에서 모두 위축 영역에 있음을 보여준 자료다. <span style="font-size: 200%; font-weight: bold; color: red;">경기 하방 위험이 심화되고 있다</span>" 고 언급
+- 반면 <span style="font-size: 200%; font-weight: bold; color: red;">S&P 글로벌의 서비스업 PMI 는 55.3으로 강력한 확장국면</span>을 시사. (ISM 은 글로벌 사업을 하는 기업들도 다 포함하고, S&P글로벌은 미국내에서만 본다)
+
 
 
 > PCE(개인소비지출) 
