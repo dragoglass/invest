@@ -1,14 +1,15 @@
 # AP 위성
 > 출처 (염블리)
-![AP위성]() ![기업연혁]()
+
+![AP위성](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/AP%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/AP%EC%9C%84%EC%84%B1.PNG?raw=true) ![기업연혁](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/AP%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EA%B8%B0%EC%97%85%EC%97%B0%ED%98%81.PNG?raw=true)
 
 ## 기업개요
-> <span style="font-weight: bold; color: red;">위성통신 단말기</sapn>(61.5%), 위성 및 위성부품(30.3%) 제조
+> <span style="font-weight: bold; color: red;">위성통신 단말기</span>(61.5%), 위성 및 위성부품(30.3%) 제조
 > 주요 고객사 : UAE 이동통신 사업자 <span style="font-weight: bold; color: red;">THURAYA</span>, 2대의 정지궤도 위성을 이용해 유럽, 아프리카, 중동, 호주 및 아시아 전역 대상 위성통신 서비스 제공
 > 수주잔고 547억원
 
 ### 주요 핵심제품
-![위성통신분야]()   ![위성제조분야]()
+![위성통신분야](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/AP%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%ED%86%B5%EC%8B%A0%EB%B6%84%EC%95%BC.PNG?raw=true)   ![위성제조분야](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/AP%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%EC%A0%9C%EC%A1%B0%EB%B6%84%EC%95%BC.PNG?raw=true)
 - 인공위성의 두뇌를 만든다
 ---
 
@@ -17,13 +18,13 @@
 > 휴대폰 형태의 위성휴대폰
 > 물류 및 선박, 차량의 위치추적 및 현황파악
 > 오일, 가스, 수자원 전기 등의 상태파악 및 분배를 위한 SCADA(원격 감시 제어) 시스템의 인프라 구축에 활용 가능한 M2M(Machine to Machine) 단말기
-![위성통신단말기1]()
+![위성통신단말기1](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/AP%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%ED%86%B5%EC%8B%A0%EB%8B%A8%EB%A7%90%EA%B8%B01.PNG?raw=true)
 
 * 2 ) 휴대는 가능하나 이동 후 정지한 상태에서 사용하는 고속 데이터통신 위주의 단말기
 > 안테나가 내장된 휴대형
 > 단말기의 움직임에 맞추어 인공위성의 자동추적이 가능한 별도의 선박용 및 차량 전용의 트래킹 안테나를 부착하여 사용하는 거치형
 > 제공하는 데이터 속도에 따라 다시 저속의 협대역 단말기와 고속의 광대역 단말기로 구분
-![위성통신단말기2]()
+![위성통신단말기2](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/AP%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%ED%86%B5%EC%8B%A0%EB%8B%A8%EB%A7%90%EA%B8%B02.PNG?raw=true)
 
 ---
 ### 위성통신 단말기 시장
@@ -47,7 +48,7 @@
 > - 2호 위성에 대한 단말기를 2006년부터 공급, 10년간 단독으로 제품 공급
 > - 2026년 수명이 종료되는 2호 위성을 대체 필요
 > -> 중동/유럽/아프리카 커버할 4호 위성 발사 계획 (4호도 단독 공급 유력하다는 입장)
-![Thuraya 위성]()
+![Thuraya 위성](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/AP%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/Thuraya%20%EC%9C%84%EC%84%B1.PNG?raw=true)
 
 ---
 ## 위성 사업
@@ -55,7 +56,7 @@
 > 기 수주한 다목적실용위성6호 탑재체 데이터링크 및 위성체 지상시험 지원장비(EGSE) 개발 중
 > 차세대중형위성 1호/2호 표준탑재컴퓨터 개발사업 수주
 > 다목적실용위성 7호의 탑재체 기기자료처리장치, 달탐사 시험용 궤도선 본체 전장품 설계 및 개발, 군정찰위성 'EO/IR' 위성의 탑재체 개발 참여
-![표준 탑재컴퓨터]() ![지상시험 지원장비]()   ![탑재체용 데이터링크]()
+![표준 탑재컴퓨터](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/AP%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%ED%91%9C%EC%A4%80%ED%83%91%EC%9E%AC%EC%BB%B4%ED%93%A8%ED%84%B0.PNG?raw=true) ![지상시험 지원장비](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/AP%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%EC%A7%80%EC%83%81%EC%8B%9C%ED%97%98%EC%A7%80%EC%9B%90%EC%9E%A5%EB%B9%84.PNG?raw=true)   ![탑재체용 데이터링크](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/AP%EC%9C%84%EC%84%B1/%EA%B7%B8%EB%A6%BC/%ED%83%91%EC%9E%AC%EC%B2%B4%EC%9A%A9%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%81%ED%81%AC.PNG?raw=true)
 
 > 위성 고속자료처리장치
 > - 위성에 탑재된 관측센서(EO, IR, SAR)로부터 입력되는 고속 대용량 데이터를 실시간으로 압축하여 저장하고, 암호화/부호화 처리 하여 지상국으로 전송하는 <span style="font-weight: bold; color: red;">탑재체 핵심장치</span>
