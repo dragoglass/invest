@@ -1,6 +1,7 @@
 # 쎄트렉아이
 > 출처 (염블리)
 ![쎄트렉아이](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4.PNG?raw=true)
+
 ## 기업개요
 > - 지구관측 위성시스템 개발 및 생산
 > - <span style="font-weight: bold; color: red;">중소형 위성, </span>위성 탑재체와 부분품 개발 및 제조, 위성 관제소프트웨어, 위성 영상 S/W 개발
@@ -68,10 +69,12 @@ SAR : 선명도는 떨어져도 눈비가 올때도 잘 보임 - 한화시스템
 ![SIIS](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/SIIS.PNG?raw=true)
 > 영상을 판매 함
 
+---
 ### SIA
 ![SIA](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/SIA.PNG?raw=true)
 > 영상을 분석해 줌
 
+---
 ## 주요 지표
 ![부문별 수주잔고](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/%EB%B6%80%EB%AC%B8%EB%B3%84%20%EC%88%98%EC%A3%BC%20%EC%9E%94%EA%B3%A0.PNG?raw=true)    ![고객사](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EC%8E%84%ED%8A%B8%EB%A0%89%EC%95%84%EC%9D%B4/%EA%B7%B8%EB%A6%BC/%EA%B3%A0%EA%B0%9D%EC%82%AC.PNG?raw=true)
 
