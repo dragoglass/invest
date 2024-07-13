@@ -1,7 +1,7 @@
 # 솔루엠
 
 ## 2024-06-27 [K스마트가로등, 獨 거리 밝힌다](https://www.sedaily.com/NewsView/2DAMMQBS2K)
-> ![스마트시티 시장 전망]()
+> ![스마트시티 시장 전망](https://github.com/dragoglass/invest/blob/stock/%EC%86%94%EB%A3%A8%EC%97%A0/%EB%89%B4%EC%8A%A4/%EA%B7%B8%EB%A6%BC/%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%8B%9C%ED%8B%B0%20%EC%8B%9C%EC%9E%A5%EC%A0%84%EB%A7%9D.gif?raw=true)
 > 27일 관련 업계에 따르면 솔루엠은 독일 중부에 위치한 일세데시에 스마트 가로등을 공급하는 계약을 논의
 > - 지난해 9월 독일 나우엔시에 처음으로 제품 보급을 시작한 것으로 사업이 확대
 > - 고도화된 센서 기술이 내장된 스마트 가로등은 온도ㆍ습도, 자동차 배기가스, 이산화탄소 등 다양한 환경 지표를 수집ㆍ분석

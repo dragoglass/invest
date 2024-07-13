@@ -24,7 +24,7 @@
 >
 > TV용 파워 모듈에서 트랜스포머 두께를 얇게 만드는 특허를 확보
 > 해당 TV 파워 모듈은 삼성 전자 프리미엄 액정표시장치(LCD) TV 'QLED TV' 에 사용 (2021년 1월 중)
-> ![3IN1 통합 모듈]()
+> ![3IN1 통합 모듈](https://github.com/dragoglass/invest/blob/stock/%EC%86%94%EB%A3%A8%EC%97%A0/%EA%B7%B8%EB%A6%BC/3IN1%20%ED%86%B5%ED%95%A9%EB%AA%A8%EB%93%88.gif?raw=true)
 
 #### 고객사
 * CJ Lang & Son Limited
