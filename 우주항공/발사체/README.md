@@ -189,17 +189,22 @@
 > 매출액대비 연구개발비 비율 5,402% (23년)
 > -> 연구개발비 부담으로 적자 지속
 
+
 * 우주 밸류체인과 이노스페이스
 ![이노스페이스 우주 밸류체인](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%9D%B4%EB%85%B8%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%9A%B0%EC%A3%BC%20%EB%B0%B8%EB%A5%98%EC%B2%B4%EC%9D%B8.PNG?raw=true)
+
 
 * 우주 트렌드 : 저궤도 위성과 소형 위성
 ![저궤도 위성과 소형 위성](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%A0%80%EA%B6%A4%EB%8F%84%20%EC%9C%84%EC%84%B1%EA%B3%BC%20%EC%86%8C%ED%98%95%20%EC%9C%84%EC%84%B1.PNG?raw=true)
 
+
 * 우주 트렌드 : 소형 발사체
 ![대형,소형발사체 비교](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EB%8C%80%ED%98%95%2C%EC%86%8C%ED%98%95%EB%B0%9C%EC%82%AC%EC%B2%B4%20%EB%B9%84%EA%B5%90.PNG?raw=true)   ![소형발사체 소형 위성 발사 시장 점유율](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%86%8C%ED%98%95%EB%B0%9C%EC%82%AC%EC%B2%B4%20%EC%86%8C%ED%98%95%20%EC%9C%84%EC%84%B1%20%EB%B0%9C%EC%82%AC%20%EC%8B%9C%EC%9E%A5%20%EC%A0%90%EC%9C%A0%EC%9C%A8.PNG?raw=true)
 
+
 * 우주 트렌드 : 발사 서비스 수요 증가, 공급 부족
 ![발사서비스 공급부족](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EB%B0%9C%EC%82%AC%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B3%B5%EA%B8%89%EB%B6%80%EC%A1%B1.PNG?raw=true)
+
 
 * 이노스페이스 발사체 포트폴리오
 ![이노스페이스 포트폴리오](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%9D%B4%EB%85%B8%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.PNG?raw=true)
