@@ -1,9 +1,9 @@
 # 발사체
 > 출처(염블리)
-> ![우주항공 밸류체인]()
+> ![우주항공 밸류체인](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5%20%EB%B0%B8%EB%A5%98%EC%B2%B4%EC%9D%B8.PNG?raw=true
 
 ## 우주산업과 발사체 시장
-![우주산업 분류 별 규모]()  ![우주산업 시장규모 추이]()
+![우주산업 분류 별 규모](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%9A%B0%EC%A3%BC%EC%82%B0%EC%97%85%20%EB%B6%84%EB%A5%98%20%EB%B3%84%20%EA%B7%9C%EB%AA%A8.PNG?raw=true  ![우주산업 시장규모 추이](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%9A%B0%EC%A3%BC%EC%82%B0%EC%97%85%20%EC%8B%9C%EC%9E%A5%EA%B7%9C%EB%AA%A8%20%EC%B6%94%EC%9D%B4.PNG?raw=true
 
 * 우주산업
 > 2023년 5090억달러, 2016~2030년 연평균 성장률 +7.4%(7,740억 달러)
@@ -12,7 +12,7 @@
 ---
 
 ## 위성 발사체와 위성 궤도 진입
-![위성 궤도 진입]()
+![위성 궤도 진입](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%9C%84%EC%84%B1%20%EA%B6%A4%EB%8F%84%20%EC%A7%84%EC%9E%85.PNG?raw=true
 * 위성 발사체
 > 인공위성 궤도 투입 운동 수단
 > 위성이 지구 궤도에 머물기 위해서는 지구 중력과 평형을 이루는 원심력 갖기 위해 초속 7.9km 내외 속도 증분 필요
@@ -20,7 +20,7 @@
 > 위성발사 서비스 사업자는 운송 수단인 발사체를 직접 개발/제작, 위성 사업자에게 운송 서비스 함께 제공
 
 * **줄어드는 발사체 비용 -> 우주산업의 고성장 촉진**
-![발사체 비용]()
+![발사체 비용](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EB%B0%9C%EC%82%AC%EC%B2%B4%20%EB%B9%84%EC%9A%A9.PNG?raw=true
 > 낮아지는 발사 비용
 > 1980년대 우주왕복선
 > -> 5만달러/kg 이상
@@ -37,25 +37,25 @@
 ---
 
 ### 스타십 발사 성공
-![스타십 발사 성공]()
+![스타십 발사 성공](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%8A%A4%ED%83%80%EC%8B%AD%20%EB%B0%9C%EC%82%AC%EC%84%B1%EA%B3%B5.PNG?raw=true
 
 ---
 ### 재사용 발사체가 바꾸는 우주
-![재사용 발사체1]() ![재사용 발사체2]()
+![재사용 발사체1](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%9C%EC%82%AC%EC%B2%B41.PNG?raw=true ![재사용 발사체2](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%B0%9C%EC%82%AC%EC%B2%B42.PNG?raw=true
 * 스페이스X
 -> 대형 발사체
 
 ---
 ### 소형 위성 발사체
-![소형 위성 발사체]()
+![소형 위성 발사체](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%86%8C%ED%98%95%EC%9C%84%EC%84%B1%EB%B0%9C%EC%82%AC%EC%B2%B4.PNG?raw=true
 
 ---
 ## 대한민국 정부 정책
-![민간주도 개발 계획 및 전환]() ![발사체 운용 포트폴리오]()
+![민간주도 개발 계획 및 전환](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EB%AF%BC%EA%B0%84%EC%A3%BC%EB%8F%84%20%EA%B0%9C%EB%B0%9C%20%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EC%A0%84%ED%99%98.PNG?raw=true ![발사체 운용 포트폴리오](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EB%B0%9C%EC%82%AC%EC%B2%B4%20%EC%9A%B4%EC%9A%A9%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.PNG?raw=true
 
 ---
 ### 정부 발사 서비스 계획
-![정부 발사체 서비스 계획]()    ![누리호 시험 발사 계획]()
+![정부 발사체 서비스 계획](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%A0%95%EB%B6%80%20%EB%B0%9C%EC%82%AC%EC%B2%B4%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B3%84%ED%9A%8D.PNG?raw=true    ![누리호 시험 발사 계획](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EB%88%84%EB%A6%AC%ED%98%B8%20%EC%8B%9C%ED%97%98%20%EB%B0%9C%EC%82%AC%20%EA%B3%84%ED%9A%8D.PNG?raw=true
 
 * 뉴스페이스 발사서비스 시장 진출
 > 누리호 4차, 5차, 6차 반복 발사
@@ -65,11 +65,11 @@
 ---
 
 ### 첨단 우주기술 확보 추진 로드맵
-![우주기술 추진 로드맵]()
+![우주기술 추진 로드맵](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%9A%B0%EC%A3%BC%EA%B8%B0%EC%88%A0%20%EC%B6%94%EC%A7%84%20%EB%A1%9C%EB%93%9C%EB%A7%B5.PNG?raw=true
 
 ### 한국 대형 발사체 시장의 주역 - 한화에어로스페이스
-![한화에어로스페이스]()
-![한화에어로스페이스 연혁]()
+![한화에어로스페이스](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%ED%95%9C%ED%99%94%EC%97%90%EC%96%B4%EB%A1%9C%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4.PNG?raw=true
+![한화에어로스페이스 연혁](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%ED%95%9C%ED%99%94%EC%97%90%EC%96%B4%EB%A1%9C%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%97%B0%ED%98%81.PNG?raw=true
 
 ---
 
@@ -82,7 +82,7 @@
 > 2015년 스타링크 진출 발표
 
 * 팰컨9
-![팰컨9]()
+![팰컨9](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%ED%8C%B0%EC%BB%A89.PNG?raw=true
 > 1단 추진체에 9기의 엔진을 이용하는 발사체
 > 재사용 로켓의 대명사로 발사비용을 획기적으로 낮췄음
 > 발사 후 1단 로켓이 지구로 귀환하여 수직 착륙
@@ -107,13 +107,13 @@
 ---
 
 ## Rocket Lab
-![Rocket Lab CEO]()
+![Rocket Lab CEO](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/Rocket%20Lab%20CEO.PNG?raw=true
 * CEO 'Peter beck'
 > 뉴질랜드 출생
 > 일 중독자
 > 가전제품 회사 근무 중, 저녁에 홀로 남아 로켓추진체 실험
 
-![Rocket Lab 기업]()
+![Rocket Lab 기업](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/Rocket%20Lab%20%EA%B8%B0%EC%97%85.PNG?raw=true
 * 기업개요
 > 2006년 설립, 2021년 미국증시 상장
 > 2009년 11월 로켓 발사체 Atea-1 발사 성공
@@ -123,7 +123,7 @@
 > 발사 기지 : 뉴질랜드 마히아(72시간마다 발사 가능), 미국 버지니아주 월롭스섬(연간 12번 발사)
 > 주요 고객사 : 'NASA', '국방부' 등 정부기관 / 'Black Sky', 'Capella Space' 등 민간 우주사업자
 
-![Electron]()
+![Electron](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/Electron.PNG?raw=true
 * Electron
 > 2017년 지구 저궤도에 최대 150kg~300kg 인공위성을 궤도에 올릴 수 있는 소형 발사체
 > 매년 세계에서 가장 자주 발사되는 소형 로켓
@@ -137,7 +137,7 @@
 > -> 로켓 엔진 핵심인 터보펌프를 제거하고 초경량의 BLDC(전기모터)를 사용하여 로켓의 추진력을 얻어냄
 > 구조가 단순하고 제작비가 낮고, 고장률 낮은 장점 보유
 
-![Neutron]()
+![Neutron](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/Neutron.PNG?raw=true
 * Neutron
 > 최대 8,000kg에 달하는 인공위성 다수를 동시에 발사 가능
 > 메가 별자리 배치, 심우주 임무 및 유인 우주 비행위기 설계
@@ -146,7 +146,7 @@
 ---
 
 ### 1단 재사용 로켓
-![Rocket Lab 발사체 재사용]()
+![Rocket Lab 발사체 재사용](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/Rocket%20Lab%20%EB%B0%9C%EC%82%AC%EC%B2%B4%20%EC%9E%AC%EC%82%AC%EC%9A%A9.PNG?raw=true
 * Electron
 > 현재까지 50번 발사
 > 인공위성 190건 배치
@@ -160,11 +160,11 @@
 
 ---
 ### Electron VS Neutron VS Falcon9 V Startship
-![1단 발세체 크기]()
+![1단 발세체 크기](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/1%EB%8B%A8%20%EB%B0%9C%EC%82%AC%EC%B2%B4%20%ED%81%AC%EA%B8%B0.PNG?raw=true
 
 ---
 ### 대한민국 초소형 군집위성 -> 로켓랩 이용
-![초소형 군집위성]()
+![초소형 군집위성](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%B4%88%EC%86%8C%ED%98%95%20%EA%B5%B0%EC%A7%91%EC%9C%84%EC%84%B1.PNG?raw=true
 * 한국 최초 양산형 초소형 군집위성 1호
 > 2024년 4월 24일 뉴질랜드에서 발사
 > 한국이 쏘아 올린 3번째 한반도 정찰위성
@@ -178,7 +178,7 @@
 ---
 
 ## 이노스페이스
-![이노스페이스 CEO]()
+![이노스페이스 CEO](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%9D%B4%EB%85%B8%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20CEO.PNG?raw=true
 * 기업개요
 > 위성 발사체 제작 및 발사 서비스 사업 영위
 > 2023년 3월 시험발사체 '한빛-TLV' 준궤도 비행 시험 성공
@@ -190,23 +190,23 @@
 > -> 연구개발비 부담으로 적자 지속
 
 * 우주 밸류체인과 이노스페이스
-![이노스페이스 우주 밸류체인]()
+![이노스페이스 우주 밸류체인](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%9D%B4%EB%85%B8%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%9A%B0%EC%A3%BC%20%EB%B0%B8%EB%A5%98%EC%B2%B4%EC%9D%B8.PNG?raw=true
 
 * 우주 트렌드 : 저궤도 위성과 소형 위성
-![저궤도 위성과 소형 위성]()
+![저궤도 위성과 소형 위성](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%A0%80%EA%B6%A4%EB%8F%84%20%EC%9C%84%EC%84%B1%EA%B3%BC%20%EC%86%8C%ED%98%95%20%EC%9C%84%EC%84%B1.PNG?raw=true
 
 * 우주 트렌드 : 소형 발사체
-![대형,소형발사체 비교]()   ![소형발사체 소형 위성 발사 시장 점유율]()
+![대형,소형발사체 비교](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EB%8C%80%ED%98%95%2C%EC%86%8C%ED%98%95%EB%B0%9C%EC%82%AC%EC%B2%B4%20%EB%B9%84%EA%B5%90.PNG?raw=true   ![소형발사체 소형 위성 발사 시장 점유율](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%86%8C%ED%98%95%EB%B0%9C%EC%82%AC%EC%B2%B4%20%EC%86%8C%ED%98%95%20%EC%9C%84%EC%84%B1%20%EB%B0%9C%EC%82%AC%20%EC%8B%9C%EC%9E%A5%20%EC%A0%90%EC%9C%A0%EC%9C%A8.PNG?raw=true
 
 * 우주 트렌드 : 발사 서비스 수요 증가, 공급 부족
-![발사서비스 공급부족]()
+![발사서비스 공급부족](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EB%B0%9C%EC%82%AC%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B3%B5%EA%B8%89%EB%B6%80%EC%A1%B1.PNG?raw=true
 
 * 이노스페이스 발사체 포트폴리오
-![이노스페이스 포트폴리오]()
+![이노스페이스 포트폴리오](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EC%9D%B4%EB%85%B8%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.PNG?raw=true
 
 ---
 ### 한빛-나노
-![한빛 나노]()  ![로켓 기술 완성도]()
+![한빛 나노](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%ED%95%9C%EB%B9%9B%20%EB%82%98%EB%85%B8.PNG?raw=true  ![로켓 기술 완성도](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EB%A1%9C%EC%BC%93%20%EA%B8%B0%EC%88%A0%20%EC%99%84%EC%84%B1%EB%8F%84.PNG?raw=true
 * 한빛-나노 발사체
 > 난이도 : 1단 엔진(60%), 2단 엔진(15%), 전장부(15%), 탑재부(5%)
 > 1단 엔진, 전장부 등 대부분 구성품은 한빛-LTV 통해 기술개발 완료
@@ -215,7 +215,7 @@
 ---
 
 ### 하이브리드 로켓
-![하이브리드 로켓1]()
+![하이브리드 로켓1](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%20%EB%A1%9C%EC%BC%931.PNG?raw=true
 * 액체로켓과 고체 로켓
 > 액체 로켓 : 우수한 비추력 선능, 추력 조절 가능 / 시스템 복잡, 개발/제작 비용 및 개발 기간 부담
 > -> 연료, 산화제 모두 액체
@@ -254,30 +254,30 @@
 > -> 현재 1D(수직방향 상하) 수직 이착륙 시험 성공
 > -> 최종 목표 수직 이륙, 수평 이동, 수직 연착륙 수행
 > ->이 과정에서 연착륙 위한 유도 항법 제어 기술 확보 목표
-> ![하이브리드 로켓1]()
+> ![하이브리드 로켓2](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%20%EB%A1%9C%EC%BC%932.PNG?raw=true
 
 * 하이브리드 기술 -> 높은 가성비
-![하이브리드의 높은 가성비]()
+![하이브리드의 높은 가성비](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C%EC%9D%98%20%EB%86%92%EC%9D%80%20%EA%B0%80%EC%84%B1%EB%B9%84.PNG?raw=true
 
 ---
 ### 발사 서비스 A to Z (기술 내재화)
-![발사 서비스 기술 내재화]()
+![발사 서비스 기술 내재화](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EB%B0%9C%EC%82%AC%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B8%B0%EC%88%A0%20%EB%82%B4%EC%9E%AC%ED%99%94.PNG?raw=true
 
 ---
 ### 한빛 시리즈 로드맵 -> 한빛-나노 (25년 상반기)
-![한빛 시리즈 로드맵]()
+![한빛 시리즈 로드맵](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%ED%95%9C%EB%B9%9B%20%EC%8B%9C%EB%A6%AC%EC%A6%88%20%EB%A1%9C%EB%93%9C%EB%A7%B5.PNG?raw=true
 
 ---
 ### 발사장 확보 현황
-![발사장]()
+![발사장](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EB%B0%9C%EC%82%AC%EC%9E%A5.PNG?raw=true
 
 ---
 ### 우주산업과 발사체 시장
-![글로벌 대비 가격 경쟁력]()    ![1기업별 위성발사 서비스 단가]()
+![글로벌 대비 가격 경쟁력](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EB%8C%80%EB%B9%84%20%EA%B0%80%EA%B2%A9%20%EA%B2%BD%EC%9F%81%EB%A0%A5.PNG?raw=true    ![기업별 위성발사 서비스 단가](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EA%B8%B0%EC%97%85%EB%B3%84%20%EC%9C%84%EC%84%B1%EB%B0%9C%EC%82%AC%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%8B%A8%EA%B0%80.PNG?raw=true
 
 ---
 ### 클러스터링 기법, 액체 메탄엔진
-![클러스터링]()
+![클러스터링](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.PNG?raw=true
 * 클러스터링 기법
 > 동일 엔진 여러 개를 동시에 사용
 > 대형엔진 1개 개발하는 것 대비 기술적 리스크 감소
@@ -294,7 +294,7 @@
 ---
 
 ### 우주산업과 발사체 시장
-![발사체 발사실적 현황]()
+![발사체 발사실적 현황](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EB%B0%9C%EC%82%AC%EC%B2%B4%20%EB%B0%9C%EC%82%AC%EC%8B%A4%EC%A0%81%20%ED%98%84%ED%99%A9.PNG?raw=true
 * 소형위성 발사 시장(Euroconsult)
 > 2022년~2031년 <span style="font-weight: bold; color: red;">10년간 18,460기</span> 소형위성 발사 예상
 > 소형위성 산업 시장 규모 840억달러 -> 소형 위성 발사시장 284억달러(과거 10년 대비 4배)
@@ -306,7 +306,7 @@
 ---
 
 ### 발사서비스 계약 체결 현황
-![계약 체결 현황]() ![계약 체결 과정]()
+![계약 체결 현황](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EA%B3%84%EC%95%BD%EC%B2%B4%EA%B2%B0%ED%98%84%ED%99%A9.PNG?raw=true ![계약 체결 과정](https://github.com/dragoglass/invest/blob/stock/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5/%EB%B0%9C%EC%82%AC%EC%B2%B4/%EA%B7%B8%EB%A6%BC/%EA%B3%84%EC%95%BD%20%EC%B2%B4%EA%B2%B0%20%EA%B3%BC%EC%A0%95.PNG?raw=true
 * 이노스페이스 영업 현황
 > NDA 서명 마치고 계약논의 진행 중인 건 총 37건(계약체결 의미하지 않음)
 > 이 중 33개가 한빛-나노
